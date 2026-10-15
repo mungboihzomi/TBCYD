@@ -18,32 +18,22 @@
     }
   ],
   "members": [
-    {
-      "name": "Mung Boih",
-      "role": "Worship Leader",
-      "phone": "98765 43210"
-    },
-    {
-      "name": "Jane H.",
-      "role": "Choir Leader",
-      "phone": "98621 23456"
-    },
-    {
-      "name": "Thang Suan",
-      "role": "Usher Team",
-      "phone": "96123 45678"
-    },
-    {
-      "name": "Ciin Nuam",
-      "role": "Youth Secretary",
-      "phone": "70054 32109"
-    },
-    {
-      "name": "Siam Thang",
-      "role": "Media Team",
-      "phone": "98630 12345"
-    },
-    {
-      "name": "Vung Hau",
-      "role": "Prayer Team",
-      "phone": "87873 456
+    { "name": "Mung Boih", "role": "Worship Leader", "phone": "98765 43210" },
+    { "name": "Jane H.", "role": "Choir Leader", "phone": "98621 23456" },
+    { "name": "Thang Suan", "role": "Usher Team", "phone": "96123 45678" },
+    { "name": "Ciin Nuam", "role": "Youth Secretary", "phone": "70054 32109" },
+    { "name": "Siam Thang", "role": "Media Team", "phone": "98630 12345" },
+    { "name": "Vung Hau", "role": "Prayer Team", "phone": "87873 45678" }
+  ],
+  "prayers": [
+    { "title": "🙏 Request from Mung", "body": "Pray for my final exam next week - 25th Oct\n- Posted 2h ago\nAmen x12" },
+    { "title": "🙏 Request from Neng", "body": "Mother sick - admitted in hospital\nPlease pray for healing\n- Posted yesterday\nAmen x28" }
+  ],
+  "birthdays": [
+    { "day": 5, "month": 10, "name": "Mung Boih", "title": "Birthday" },
+    { "day": 15, "month": 10, "name": "Jane H.", "title": "Birthday" },
+    { "day": 18, "month": 10, "name": "Siam Thang", "title": "Birthday" },
+    { "day": 22, "month": 10, "name": "Vung Hau", "title": "Birthday" },
+    { "day": 28, "month": 10, "name": "Ciin Nuam", "title": "Birthday" }
+  ]
+}
