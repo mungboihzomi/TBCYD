@@ -1,0 +1,49 @@
+{
+  "announcements": [
+    {
+      "title": "📢 Sunday Service",
+      "body": "This Sunday 10:00 AM - Main Hall\nSpeaker: Pastor Mung Boih\nAll members please attend on time."
+    },
+    {
+      "title": "🎄 Youth Camp 2024",
+      "body": "Dec 20-22 @ Patkai Hills\nRegistration open till Dec 10\nFee: Rs.500\nContact: Jane"
+    },
+    {
+      "title": "🙏 Friday Prayer Meeting",
+      "body": "Every Friday 6:00 PM\nVenue: Youth Room\nLed by Worship Team"
+    },
+    {
+      "title": "🎤 Choir Practice",
+      "body": "Saturday 2:00 PM\nMain Hall\nNew songs practice"
+    }
+  ],
+  "members": [
+    {
+      "name": "Mung Boih",
+      "role": "Worship Leader",
+      "phone": "98765 43210"
+    },
+    {
+      "name": "Jane H.",
+      "role": "Choir Leader",
+      "phone": "98621 23456"
+    },
+    {
+      "name": "Thang Suan",
+      "role": "Usher Team",
+      "phone": "96123 45678"
+    },
+    {
+      "name": "Ciin Nuam",
+      "role": "Youth Secretary",
+      "phone": "70054 32109"
+    },
+    {
+      "name": "Siam Thang",
+      "role": "Media Team",
+      "phone": "98630 12345"
+    },
+    {
+      "name": "Vung Hau",
+      "role": "Prayer Team",
+      "phone": "87873 456
