@@ -1,39 +1,25 @@
 {
   "announcements": [
-    {
-      "title": "📢 Sunday Service",
-      "body": "This Sunday 10:00 AM - Main Hall\nSpeaker: Pastor Mung Boih\nAll members please attend on time."
-    },
-    {
-      "title": "🎄 Youth Camp 2024",
-      "body": "Dec 20-22 @ Patkai Hills\nRegistration open till Dec 10\nFee: Rs.500\nContact: Jane"
-    },
-    {
-      "title": "🙏 Friday Prayer Meeting",
-      "body": "Every Friday 6:00 PM\nVenue: Youth Room\nLed by Worship Team"
-    },
-    {
-      "title": "🎤 Choir Practice",
-      "body": "Saturday 2:00 PM\nMain Hall\nNew songs practice"
-    }
+    { "title": "📢 Sunday Service", "body": "This Sunday 10:00 AM - Main Hall\nSpeaker: Pastor Mung Boih" },
+    { "title": "🎄 Youth Camp 2024", "body": "Dec 20-22 @ Patkai Hills\nFee: Rs.500" }
   ],
   "members": [
     { "name": "Mung Boih", "role": "Worship Leader", "phone": "98765 43210" },
     { "name": "Jane H.", "role": "Choir Leader", "phone": "98621 23456" },
-    { "name": "Thang Suan", "role": "Usher Team", "phone": "96123 45678" },
-    { "name": "Ciin Nuam", "role": "Youth Secretary", "phone": "70054 32109" },
-    { "name": "Siam Thang", "role": "Media Team", "phone": "98630 12345" },
-    { "name": "Vung Hau", "role": "Prayer Team", "phone": "87873 45678" }
+    { "name": "Thang Suan", "role": "Usher", "phone": "96123 45678" },
+    { "name": "Ciin Nuam", "role": "Youth Secretary", "phone": "70054 32109" }
   ],
   "prayers": [
-    { "title": "🙏 Request from Mung", "body": "Pray for my final exam next week - 25th Oct\n- Posted 2h ago\nAmen x12" },
-    { "title": "🙏 Request from Neng", "body": "Mother sick - admitted in hospital\nPlease pray for healing\n- Posted yesterday\nAmen x28" }
+    { "title": "🙏 Request from Mung", "body": "Pray for my exam next week" }
   ],
-  "birthdays": [
-    { "day": 5, "month": 10, "name": "Mung Boih", "title": "Birthday" },
-    { "day": 15, "month": 10, "name": "Jane H.", "title": "Birthday" },
-    { "day": 18, "month": 10, "name": "Siam Thang", "title": "Birthday" },
-    { "day": 22, "month": 10, "name": "Vung Hau", "title": "Birthday" },
-    { "day": 28, "month": 10, "name": "Ciin Nuam", "title": "Birthday" }
+  "calendar": [
+    { "day": 5, "month": 10, "title": "Mung Boih Birthday", "type": "birthday" },
+    { "day": 15, "month": 10, "title": "Jane Birthday", "type": "birthday" },
+    { "day": 31, "month": 10, "title": "Reformation Day", "type": "holiday" },
+    { "day": 25, "month": 12, "title": "Christmas Day 🎄", "type": "holiday" },
+    { "day": 1, "month": 1, "title": "New Year Day", "type": "holiday" },
+    { "day": 14, "month": 4, "title": "Good Friday ✝️", "type": "holiday" },
+    { "day": 16, "month": 4, "title": "Easter Sunday", "type": "holiday" },
+    { "day": 25, "month": 12, "title": "Christmas Service", "type": "event" }
   ]
 }
