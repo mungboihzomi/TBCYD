@@ -1,4 +1,18 @@
 {
+  "days": {
+    "Sunday": "Happy Sunday! Worship Him 🙏\nToday is the Lord's Day!",
+    "Monday": "Happy Monday! New week, new blessings!",
+    "Tuesday": "Happy Tuesday! God is with you!",
+    "Wednesday": "Happy Wednesday! Stay strong in faith!",
+    "Thursday": "Happy Thursday! Almost there!",
+    "Friday": "Happy Friday! God loves you!",
+    "Saturday": "Happy Saturday! Rest in Him!"
+  },
+  "special": {
+    "12-25": "Merry Christmas! 🎄 Jesus is born!",
+    "01-01": "Happy New Year! 🎉 God bless you!",
+    "10-15": "Happy Birthday Jane! 🎂"
+  },
   "announcements": [
     { "title": "📢 Sunday Service", "body": "This Sunday 10:00 AM - Main Hall\nSpeaker: Pastor Mung Boih" },
     { "title": "🎄 Youth Camp 2024", "body": "Dec 20-22 @ Patkai Hills\nFee: Rs.500" }
