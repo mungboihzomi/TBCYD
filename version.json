@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "3.0",
+  "versionCode": 10,
+  "versionName": "2.1",
   "apkUrl": "https://github.com/mungboihzomi/TBCYD/raw/main/app.apk",
-  "changelog": "🎉 TBCYF Update v2.0:\n\n- Home List မှာ Key မပြတော့ဘူး (သန့်)\n- Detail ထဲမှာပဲ Key ပြမယ်\n- AppUpdater အသစ်ထည့်ပြီး\n- Happy Sunday Dialog\n\nUpdate Now နှိပ်ပြီး အသစ်ရယူပါ!",
+  "changelog": "Test Update - Download Dialog စမ်းသပ်ခြင်း",
   "forceUpdate": false
 }
