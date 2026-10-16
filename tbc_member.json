@@ -1,4 +1,6 @@
 {
+  "member_groups": ["All", "Leaders", "Worship", "Youth", "Media", "Prayer"],
+
   "days": {
     "Sunday": "Happy Sunday! Worship Him 🙏\nToday is the Lord's Day!",
     "Monday": "Happy Monday! New week, new blessings!",
@@ -8,32 +10,110 @@
     "Friday": "Happy Friday! God loves you!",
     "Saturday": "Happy Saturday! Rest in Him!"
   },
+
   "special": {
     "12-25": "Merry Christmas! 🎄 Jesus is born!",
     "01-01": "Happy New Year! 🎉 God bless you!",
     "10-15": "Happy Birthday Jane! 🎂"
   },
+
   "announcements": [
-    { "title": "📢 Sunday Service", "body": "This Sunday 10:00 AM - Main Hall\nSpeaker: Pastor Mung Boih" },
-    { "title": "🎄 Youth Camp 2024", "body": "Dec 20-22 @ Patkai Hills\nFee: Rs.500" }
+    {
+      "title": "📢 Sunday Service",
+      "body": "This Sunday 10:00 AM - Main Hall\nSpeaker: Pastor Mung Boih"
+    },
+    {
+      "title": "🎄 Youth Camp 2024",
+      "body": "Dec 20-22 @ Patkai Hills\nFee: Rs.500"
+    }
   ],
+
   "members": [
-    { "name": "Mung Boih", "role": "Worship Leader", "phone": "98765 43210" },
-    { "name": "Jane H.", "role": "Choir Leader", "phone": "98621 23456" },
-    { "name": "Thang Suan", "role": "Usher", "phone": "96123 45678" },
-    { "name": "Ciin Nuam", "role": "Youth Secretary", "phone": "70054 32109" }
+    {
+      "name": "Mung Boih",
+      "role": "Leaders",
+      "phone": "98765 43210"
+    },
+    {
+      "name": "Jane H.",
+      "role": "Worship",
+      "phone": "98621 23456"
+    },
+    {
+      "name": "Thang Suan",
+      "role": "Youth",
+      "phone": "96123 45678"
+    },
+    {
+      "name": "Ciin Nuam",
+      "role": "Youth",
+      "phone": "70054 32109"
+    },
+    {
+      "name": "David",
+      "role": "Media",
+      "phone": "09456781234"
+    },
+    {
+      "name": "Grace",
+      "role": "Prayer",
+      "phone": "09543218765"
+    }
   ],
+
   "prayers": [
-    { "title": "🙏 Request from Mung", "body": "Pray for my exam next week" }
+    {
+      "title": "🙏 Request from Mung",
+      "body": "Pray for my exam next week"
+    }
   ],
+
   "calendar": [
-    { "day": 5, "month": 10, "title": "Mung Boih Birthday", "type": "birthday" },
-    { "day": 15, "month": 10, "title": "Jane Birthday", "type": "birthday" },
-    { "day": 31, "month": 10, "title": "Reformation Day", "type": "holiday" },
-    { "day": 25, "month": 12, "title": "Christmas Day 🎄", "type": "holiday" },
-    { "day": 1, "month": 1, "title": "New Year Day", "type": "holiday" },
-    { "day": 14, "month": 4, "title": "Good Friday ✝️", "type": "holiday" },
-    { "day": 16, "month": 4, "title": "Easter Sunday", "type": "holiday" },
-    { "day": 25, "month": 12, "title": "Christmas Service", "type": "event" }
-  ]
-}
+    {
+      "day": 5,
+      "month": 10,
+      "title": "Mung Boih Birthday",
+      "type": "birthday"
+    },
+    {
+      "day": 15,
+      "month": 10,
+      "title": "Jane Birthday",
+      "type": "birthday"
+    },
+    {
+      "day": 31,
+      "month": 10,
+      "title": "Reformation Day",
+      "type": "holiday"
+    },
+    {
+      "day": 25,
+      "month": 12,
+      "title": "Christmas Day 🎄",
+      "type": "holiday"
+    },
+    {
+      "day": 1,
+      "month": 1,
+      "title": "New Year Day",
+      "type": "holiday"
+    },
+    {
+      "day": 14,
+      "month": 4,
+      "title": "Good Friday ✝️",
+      "type": "holiday"
+    },
+    {
+      "day": 16,
+      "month": 4,
+      "title": "Easter Sunday",
+      "type": "holiday"
+    },
+    {
+      "day": 25,
+      "month": 12,
+      "title": "Christmas Service",
+      "type": "event"
+    }
