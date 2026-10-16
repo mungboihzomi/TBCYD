@@ -1,4 +1,6 @@
-"services": [
+{
+  "member_groups": ["All", "Pastors", "Leaders", "Worship", "Youth", "Media"],
+  "services": [
     {
       "title": "Sunday Main Service",
       "time": "Sunday 10:00 AM - 12:00 PM",
@@ -30,3 +32,34 @@
       "speaker": "Prayer Team"
     }
   ],
+  "days": {
+    "Sunday": "Happy Sunday! Worship Him 🙏\nToday is the Lord's Day!",
+    "Monday": "Happy Monday! New week, new blessings!"
+  },
+  "special": {
+    "12-25": "Merry Christmas! 🎄",
+    "01-01": "Happy New Year! 🎉",
+    "10-15": "Happy Birthday Jane! 🎂"
+  },
+  "announcements": [
+    {
+      "title": "📢 Sunday Service",
+      "body": "10:00 AM Main | 1:30 PM မြန်မာ | 3:00 PM Youth"
+    }
+  ],
+  "members": [
+    {"name": "Rev. Mung Boih", "role": "Pastors", "phone": "98765 43210"},
+    {"name": "Thang Suan", "role": "Leaders", "phone": "96123 45678"},
+    {"name": "Jane H.", "role": "Youth", "phone": "98621 23456"}
+  ],
+  "prayers": [
+    {
+      "title": "🙏 Thungetna Khawk",
+      "body": "(1) missionary 10\n(2) pianthak nading\n(3) guihtheih beisiang\n(4) Pasian it\n(5) khantoh\n(6) Tamu daihna\n(7) Biakinn thak"
+    }
+  ],
+  "calendar": [
+    {"day": 14, "month": 5, "title": "Sunday Service Day", "type": "event"},
+    {"day": 25, "month": 12, "title": "Christmas Day 🎄", "type": "holiday"}
+  ]
+}
