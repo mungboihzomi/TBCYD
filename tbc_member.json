@@ -1,5 +1,5 @@
 {
-  "member_groups": ["All", "Leaders", "Worship", "Youth", "Media", "Prayer"],
+  "member_groups": ["All", "Pastors", "Leaders", "Worship", "Youth", "Media"],
 
   "days": {
     "Sunday": "Happy Sunday! Worship Him 🙏\nToday is the Lord's Day!",
@@ -30,8 +30,18 @@
 
   "members": [
     {
-      "name": "Mung Boih",
+      "name": "Rev. Mung Boih",
+      "role": "Pastors",
+      "phone": "98765 43210"
+    },
+    {
+      "name": "Thang Suan",
       "role": "Leaders",
+      "phone": "96123 45678"
+    },
+    {
+      "name": "Mung Boih",
+      "role": "Worship",
       "phone": "98765 43210"
     },
     {
@@ -40,24 +50,24 @@
       "phone": "98621 23456"
     },
     {
-      "name": "Thang Suan",
-      "role": "Youth",
-      "phone": "96123 45678"
-    },
-    {
       "name": "Ciin Nuam",
       "role": "Youth",
       "phone": "70054 32109"
     },
     {
       "name": "David",
-      "role": "Media",
+      "role": "Youth",
       "phone": "09456781234"
     },
     {
-      "name": "Grace",
-      "role": "Prayer",
+      "name": "Esther",
+      "role": "Media",
       "phone": "09543218765"
+    },
+    {
+      "name": "Grace",
+      "role": "Media",
+      "phone": "09543218766"
     }
   ],
 
@@ -65,6 +75,10 @@
     {
       "title": "🙏 Request from Mung",
       "body": "Pray for my exam next week"
+    },
+    {
+      "title": "🙏 Youth Ministry",
+      "body": "Pray for youth camp"
     }
   ],
 
@@ -90,30 +104,4 @@
     {
       "day": 25,
       "month": 12,
-      "title": "Christmas Day 🎄",
-      "type": "holiday"
-    },
-    {
-      "day": 1,
-      "month": 1,
-      "title": "New Year Day",
-      "type": "holiday"
-    },
-    {
-      "day": 14,
-      "month": 4,
-      "title": "Good Friday ✝️",
-      "type": "holiday"
-    },
-    {
-      "day": 16,
-      "month": 4,
-      "title": "Easter Sunday",
-      "type": "holiday"
-    },
-    {
-      "day": 25,
-      "month": 12,
-      "title": "Christmas Service",
-      "type": "event"
-    }
+      "title
