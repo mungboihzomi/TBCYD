@@ -1,35 +1,65 @@
 {
   "member_groups": ["All", "Pastors", "Leaders", "Worship", "Youth", "Media"],
-  "services": [
+    "services": [
     {
-      "title": "Main Service",
-      "time": "Sunday 10:00 AM - 12:00 PM",
-      "place": "TBC Tamu Main Hall, Tamu",
-      "speaker": "Rev. Mung Boih"
+      "days": "SUN",
+      "title": "Sunday Main Service",
+      "time": "10:00 AM - 12:00 PM",
+      "place": "Church"
     },
     {
+      "days": "SUN",
       "title": "မြန်မာ အစီအစဉ်",
-      "time": "Sunday 1:30 PM",
-      "place": "TBC Tamu Main Hall, Tamu",
-      "speaker": "Myanmar Service Team"
+      "time": "1:30 PM",
+      "place": "Church"
     },
     {
+      "days": "SUN",
       "title": "Youth Service",
-      "time": "Sunday 3:00 PM",
-      "place": "TBC Youth Hall, Tamu",
-      "speaker": "Youth Team - Jane H."
+      "time": "3:00 PM",
+      "place": "Youth Hall"
     },
     {
-      "title": "Wednesday Bible Study",
-      "time": "Wednesday 6:00 PM - 7:30 PM",
-      "place": "TBC Youth Room, Tamu",
-      "speaker": "Pastor Thang Suan"
+      "days": "TUE",
+      "title": "Siate thunget Khopna",
+      "time": "10:00 AM",
+      "place": "Church"
     },
     {
-      "title": "Saturday Prayer Meeting",
-      "time": "Saturday 5:00 AM - 6:00 AM",
-      "place": "TBC Prayer Room, Tamu",
-      "speaker": "Prayer Team"
+      "days": "WED",
+      "title": "E&M",
+      "time": "2:00 PM",
+      "place": "TDB"
+    },
+    {
+      "days": "FRI",
+      "title": "Antang Thunget",
+      "time": "9:00 AM",
+      "place": "Church"
+    },
+    {
+      "days": "FRI",
+      "title": "W.D Kikhop",
+      "time": "1:00 PM",
+      "place": "Church"
+    },
+    {
+      "days": "SAT",
+      "title": "Morning Devotion",
+      "time": "7:00 AM",
+      "place": "Church"
+    },
+    {
+      "days": "SAT",
+      "title": "Children Church",
+      "time": "8:30 AM - 10:00 AM",
+      "place": "Church"
+    },
+    {
+      "days": "SAT",
+      "title": "M.D",
+      "time": "2:00 PM",
+      "place": "TDB"
     }
   ],
   "days": {
