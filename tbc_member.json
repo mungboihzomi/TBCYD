@@ -1,6 +1,33 @@
 {
   "member_groups": ["All", "Pastors", "Leaders", "Worship", "Youth", "Media"],
 
+  "services": [
+    {
+      "title": "Sunday Morning Service",
+      "time": "Sunday 10:00 AM - 12:00 PM",
+      "place": "TBC Tamu Main Hall, Tamu, Myanmar",
+      "speaker": "Rev. Mung Boih"
+    },
+    {
+      "title": "Wednesday Bible Study",
+      "time": "Wednesday 6:00 PM - 7:30 PM",
+      "place": "TBC Youth Room, Tamu",
+      "speaker": "Pastor Thang Suan"
+    },
+    {
+      "title": "Friday Youth Service",
+      "time": "Friday 6:30 PM - 8:00 PM",
+      "place": "TBC Hall, Tamu",
+      "speaker": "Youth Team - Jane H."
+    },
+    {
+      "title": "Saturday Prayer Meeting",
+      "time": "Saturday 5:00 AM - 6:00 AM",
+      "place": "TBC Prayer Room, Tamu",
+      "speaker": "Prayer Team"
+    }
+  ],
+
   "days": {
     "Sunday": "Happy Sunday! Worship Him 🙏\nToday is the Lord's Day!",
     "Monday": "Happy Monday! New week, new blessings!",
@@ -14,7 +41,8 @@
   "special": {
     "12-25": "Merry Christmas! 🎄 Jesus is born!",
     "01-01": "Happy New Year! 🎉 God bless you!",
-    "10-15": "Happy Birthday Jane! 🎂"
+    "10-15": "Happy Birthday Jane! 🎂",
+    "05-14": "Today Special Day 🙏"
   },
 
   "announcements": [
@@ -88,7 +116,7 @@
       "body": "Pawlpi mikim in Pasian it le zahtak-in, Pasian' thu sungah lawp-in nopsak na ding"
     },
     {
-      "title": "(5) Khantohna",
+      "title": "(5) Khantoh semsem",
       "body": "Pawlpi mite kha-thu le taksa thu ah khantoh semsem nading"
     },
     {
@@ -98,9 +126,20 @@
     {
       "title": "(7) Biakinn Thak",
       "body": "Biakinn thak lam zawh mengmeng nading"
-    } ],
+    },
+    {
+      "title": "🙏 Kah te a ding",
+      "body": "I pawlpi thungetna 7 te a ding thungetna ah phawk ni!"
+    }
+  ],
 
   "calendar": [
+    {
+      "day": 14,
+      "month": 5,
+      "title": "Today Service",
+      "type": "event"
+    },
     {
       "day": 5,
       "month": 10,
