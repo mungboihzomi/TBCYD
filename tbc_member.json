@@ -63,22 +63,45 @@
       "name": "Esther",
       "role": "Media",
       "phone": "09543218765"
-    },
-    {
-      "name": "Grace",
-      "role": "Media",
-      "phone": "09543218766"
     }
   ],
 
   "prayers": [
     {
-      "title": "🙏 Request from Mung",
-      "body": "Pray for my exam next week"
+      "title": "🙏 Thungetna Khawk - Pawlpi Thungetna",
+      "body": "Thungetna Khawk:-\n(1) Pawlpi in kum 10 sungin missionary 10 i khahzawh nading\n(2) Pawlpi mikim pianthak nading\n(3) Pawlpi sungah guihtheih-khamtheih a beisiang nading\n(4) Pawlpi mikim in Pasian it le zahtak-in, Pasian' thu sungah lawp-in nopsak na ding\n(5) Pawlpi mite kha-thu le taksa thu ah khantoh semsem nading\n(6) I gam le i khua Tamu ah nopna le daihna hong om mengmeng nading\n(7) Biakinn thak lam zawh mengmeng nading"
     },
     {
-      "title": "🙏 Youth Ministry",
-      "body": "Pray for youth camp"
+      "title": "(1) Missionary 10",
+      "body": "Pawlpi in kum 10 sungin missionary 10 i khahzawh nading"
+    },
+    {
+      "title": "(2) Pianthakna",
+      "body": "Pawlpi mikim pianthak nading"
+    },
+    {
+      "title": "(3) Guihtheih-Khamtheih Beisiang",
+      "body": "Pawlpi sungah guihtheih-khamtheih a beisiang nading"
+    },
+    {
+      "title": "(4) Pasian It & Zahtak",
+      "body": "Pawlpi mikim in Pasian it le zahtak-in, Pasian' thu sungah lawp-in nopsak na ding"
+    },
+    {
+      "title": "(5) Khantohna",
+      "body": "Pawlpi mite kha-thu le taksa thu ah khantoh semsem nading"
+    },
+    {
+      "title": "(6) Tamu Gam",
+      "body": "I gam le i khua Tamu ah nopna le daihna hong om mengmeng nading"
+    },
+    {
+      "title": "(7) Biakinn Thak",
+      "body": "Biakinn thak lam zawh mengmeng nading"
+    },
+    {
+      "title": "🙏 Kah te a ding",
+      "body": "I pawlpi thungetna 7 te a ding thungetna ah phawk ni!"
     }
   ],
 
@@ -104,4 +127,32 @@
     {
       "day": 25,
       "month": 12,
-      "title
+      "title": "Christmas Day 🎄",
+      "type": "holiday"
+    },
+    {
+      "day": 1,
+      "month": 1,
+      "title": "New Year Day",
+      "type": "holiday"
+    },
+    {
+      "day": 14,
+      "month": 4,
+      "title": "Good Friday ✝️",
+      "type": "holiday"
+    },
+    {
+      "day": 16,
+      "month": 4,
+      "title": "Easter Sunday",
+      "type": "holiday"
+    },
+    {
+      "day": 25,
+      "month": 12,
+      "title": "Christmas Service",
+      "type": "event"
+    }
+  ]
+}
